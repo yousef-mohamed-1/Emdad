@@ -24,7 +24,7 @@
 - عمرو عماد عبد العزيزUsability Tester + Project Coordinator -
 
 ## 🔗 رابط جوجل درايف
-[Google Drive](https://drive.google.com/drive/folders/1tOHrHLX4PkBMRDe4Aro5KLyzcy2HDMkV)
+[Figma](https://www.figma.com/design/iP1x7MDuu78IlKlOKrrDSq/Emdad?node-id=0-1&t=Mhr19ypIJ0LfFOwj-1)
 
 ##  اسم المحاضر
 **Eng. Mohamed Kamar**
