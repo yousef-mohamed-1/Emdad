@@ -23,7 +23,7 @@
 - محمد ياسر جمعه منصور- UX Researcher
 - عمرو عماد عبد العزيزUsability Tester + Project Coordinator -
 
-## 🔗 رابط جوجل درايف
+## 🔗 رابط الفيجما
 [Figma](https://www.figma.com/design/iP1x7MDuu78IlKlOKrrDSq/Emdad?node-id=0-1&t=Mhr19ypIJ0LfFOwj-1)
 
 ##  اسم المحاضر
